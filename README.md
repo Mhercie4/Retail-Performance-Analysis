@@ -6,15 +6,14 @@ This project transforms over **3,900+ retail transactions** into a strategic int
 ---
 
 ### 🚀 Access the Project
-* 📂 **[Download Raw Dataset](./Retail_Data.csv)**
-* 📊 **[Download Power BI Dashboard (.pbix)](./Retail_Insights_Dashboard.pbix)**
-* 🖥️ **[View Full Screen Image](./new_dash.png)**
+* 📂 **[Download Raw Dataset](https://github.com/Mhercie4/Mhercie4.github.io/raw/main/assets/Project%202%20dataset.csv)**
+* 📊 **[Download Power BI Dashboard (.pbix)](https://github.com/Mhercie4/Mhercie4.github.io/raw/main/assets/Project%202%20pbix%20file.pbix)**
+* 🖥️ **[View Full Screen Image](https://github.com/Mhercie4/Mhercie4.github.io/raw/main/assets/Project%202%20Dashboard%20N.png)**
 
 ---
 
 ## 🖥️ Dashboard Preview
-![Retail Performance Dashboard](./new_dash.png)
-
+![Retail Performance Dashboard](./assets/Project%202%20Dashboard%20N.png)
 ---
 
 ## ❓ Business Problem & Key Questions
